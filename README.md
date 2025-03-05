@@ -1,7 +1,6 @@
-- 👋 Hi, I’m M.Hanzella.Khan
-- 👀 I’m interested in Data Science and Grahic Design
-- 🌱 I’m currently learning Data Structures and Alogrithm
-- 💞️ I’m new here so looking forward to learn from others .
+-  M.Hanzella.Khan
+- Bachelors in Computer Science 
+- 💞️AI and ML enthusiast .
 - 📫 How to reach me hanzellaqutub96@gmail.com
 - 
 <!---
