@@ -1,9 +1,19 @@
--  M.Hanzella.Khan
-- Bachelors in Computer Science 
-- 💞️AI and ML enthusiast .
-- 📫 How to reach me hanzellaqutub96@gmail.com
-- 
-<!---
-qutub96/qutub96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hanzella Khan
+
+AI/ML engineer at the **Pakistan Telecommunication Authority (PTA)**, ICT Department. I build production RAG and NLP systems, and ship backend services with FastAPI and .NET.
+
+- 🤖 Designed and deployed **RAABTA**, a zero-hallucination RAG chatbot serving citizen queries on PTA's official website — hybrid retrieval, cross-encoder re-ranking, confidence-gated generation, and an automated eval suite.
+- 🏗️ Built and maintain backend services for PTA's **Tariff Portal** (telecom package approvals) and the **CDN Blocking** platform.
+- 🧠 BS Computer Science, FAST NUCES (2025) — final year project on diffusion-based MRI inpainting (`NeuroGen`).
+- 🛠️ Python · FastAPI · Django/Flask · TensorFlow/Keras · Docker · n8n · full-stack AI systems.
+- 💼 Also taking on freelance projects (Upwork/Fiverr) in AI automation and backend development.
+- 📫 Reach me at hanzellaqutub96@gmail.com
+
+## Featured work
+
+| Project | What it demonstrates |
+|---|---|
+| [rag-reference-architecture](#) | Hybrid retrieval (BGE + BM25 + RRF), cross-encoder re-ranking, and a confidence gate that refuses rather than hallucinates — the pattern behind a production government chatbot. |
+| [neurogen](#) | DDPM-based diffusion model for MRI tissue inpainting (RePaint, Palette, BraTS dataset). |
+
+*(RAABTA and PTA production systems run on internal government infrastructure and aren't publicly linkable — happy to walk through the architecture or demo the widget on request.)*
