@@ -1,9 +1,9 @@
 # Hanzella Khan
 
-AI/ML engineer at the **Pakistan Telecommunication Authority (PTA)**, ICT Department. I build production RAG and NLP systems, and ship backend services with FastAPI and .NET.
+AI/ML engineer  ICT Department. I build production RAG and NLP systems, and ship backend services with FastAPI and .NET.
 
-- 🤖 Designed and deployed **RAABTA**, a zero-hallucination RAG chatbot serving citizen queries on PTA's official website — hybrid retrieval, cross-encoder re-ranking, confidence-gated generation, and an automated eval suite.
-- 🏗️ Built and maintain backend services for PTA's **Tariff Portal** (telecom package approvals) and the **CDN Blocking** platform.
+- 🤖 Designed and deployed **AI CHATBOT**, a zero-hallucination RAG chatbot serving citizen queries on GOVT official website — hybrid retrieval, cross-encoder re-ranking, confidence-gated generation, and an automated eval suite.
+- 🏗️ Built and maintain backend services for  **Telecom Portal** (telecom package approvals) and the **CDN Blocking** platform.
 - 🧠 BS Computer Science, FAST NUCES (2025) — final year project on diffusion-based MRI inpainting (`NeuroGen`).
 - 🛠️ Python · FastAPI · Django/Flask · TensorFlow/Keras · Docker · n8n · full-stack AI systems.
 - 💼 Also taking on freelance projects (Upwork/Fiverr) in AI automation and backend development.
